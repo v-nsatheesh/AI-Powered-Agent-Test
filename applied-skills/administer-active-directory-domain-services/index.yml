@@ -1,0 +1,41 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '25463'
+metadata:
+  title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: false
+title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
+uid: applied-skill.administer-active-directory-domain-services
+levels:
+  - beginner
+roles:
+  - administrator
+products:
+  - azure
+subjects:
+  - data-storage
+locales:
+  - en
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to administer Active Directory Domain Services (AD DS).
+  Candidates for this credential should be familiar with Windows Server, core networking technologies, PowerShell basics, and AD DS concepts and technologies.
+tasks:
+  - Streamline web productivity tasks by using Microsoft 365 Copilot Chat
+  - Draft and refine documents by using Copilot in Microsoft Word
+  - Draft presentations by using Copilot in Microsoft PowerPoint
+studyGuide:
+  - uid: learn.wwl.administer-active-directory-domain-services
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL1001-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
