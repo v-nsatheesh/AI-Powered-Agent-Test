@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '25463'
+labProfileId: '145735'
 metadata:
   title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
@@ -10,7 +10,7 @@ uid: applied-skill.administer-active-directory-domain-services
 levels:
   - beginner
 roles:
-  - administrator
+  - developer
 products:
   - azure
 subjects:
@@ -18,18 +18,19 @@ subjects:
 locales:
   - en
 summary: |-
-  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to administer Active Directory Domain Services (AD DS).
-  Candidates for this credential should be familiar with Windows Server, core networking technologies, PowerShell basics, and AD DS concepts and technologies.
+  This course introduces Microsoft 365 Copilot Chat and showcases common Copilot prompt flows in Microsoft 365 apps including PowerPoint, Word, Excel, and Outlook.
 tasks:
   - Streamline web productivity tasks by using Microsoft 365 Copilot Chat
   - Draft and refine documents by using Copilot in Microsoft Word
   - Draft presentations by using Copilot in Microsoft PowerPoint
+  - Manage emails and responses by using Copilot in Microsoft Outlook
+  - Explore data by using Copilot in Microsoft Excel
 studyGuide:
-  - uid: learn.wwl.administer-active-directory-domain-services
+  - uid: learn.wwl.optimize-business-processes-with-ai
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
-    href: https://aka.ms/APL1001-StudyGuide
+    href: https://aka.ms/-StudyGuide
   - title: Applied Skills poster
     description: Explore all credentials in a concise guide.
     href: https://aka.ms/AppliedSkillsPoster
