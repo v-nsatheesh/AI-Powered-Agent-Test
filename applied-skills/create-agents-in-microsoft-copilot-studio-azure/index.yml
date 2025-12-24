@@ -1,0 +1,44 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '14752'
+metadata:
+  title: 'Microsoft Applied Skills: Create agents in Microsoft Copilot Studio Azure'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: false
+title: 'Microsoft Applied Skills: Create agents in Microsoft Copilot Studio Azure'
+uid: applied-skill.create-agents-in-microsoft-copilot-studio-azure
+levels:
+  - advanced
+roles:
+  - developer
+products:
+  - azure
+subjects:
+  - data-storage
+locales:
+  - en
+summary: |-
+  To earn this Microsoft Applied Skills Credential, learners demonstrate proficiency to create custom agents with Microsoft Copilot Studio.
+
+  Ideal candidates have experience with Copilot Studio, Microsoft Teams, and Microsoft Power Platform.
+tasks:
+  - Streamline web productivity tasks by using Microsoft 365 Copilot Chat
+  - Draft and refine documents by using Copilot in Microsoft Word
+  - Draft presentations by using Copilot in Microsoft PowerPoint
+  - Manage emails and responses by using Copilot in Microsoft Outlook
+  - Explore data by using Copilot in Microsoft Excel
+studyGuide:
+  - uid: learn.wwl.create-extend-custom-copilots-microsoft-copilot-studio
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL2001-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
