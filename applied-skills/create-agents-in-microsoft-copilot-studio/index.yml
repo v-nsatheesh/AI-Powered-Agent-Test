@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '14752'
+labProfileId: '96325'
 metadata:
   title: 'Microsoft Applied Skills: Create agents in Microsoft Copilot Studio'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
@@ -19,7 +19,7 @@ locales:
   - en
 summary: |-
   To earn this Microsoft Applied Skills credential, learners demonstrate the ability to create custom agents with Microsoft Copilot Studio.
-  
+
   Candidates for this credential should have experience with Copilot Studio, Microsoft Teams, and Microsoft Power Platform.
 tasks:
   - Streamline web productivity tasks by using Microsoft 365 Copilot Chat
