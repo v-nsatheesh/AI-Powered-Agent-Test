@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '172536'
+labProfileId: '909090'
 metadata:
   title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills"
@@ -19,7 +19,6 @@ locales:
   - en
 summary: |-
   To earn this Microsoft Applied Skills credential, demonstrate the ability to develop AI-powered solutions with Azure Database for PostgreSQL. 
-
   As a learner pursuing this credential, you should have experience writing SQL queries and Python. You should also be familiar with fundamental AI concepts and Retrieval-Augmented Generation (RAG) frameworks. 
 tasks:
   - Configure an Azure PostgreSQL environment
