@@ -18,13 +18,13 @@ subjects:
 locales:
   - en
 summary: |-
-  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to create business reports using AI-powered research tools. Candidates for this credential should be familiar with generative AI technologies. They should also have experience using prompts to interact with Microsoft Copilot. 
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to create business reports using AI-powered research tools. Candidates for this credential should be familiar with generative AI technologies. They should also have experience using prompts to interact with Microsoft Copilot.
 tasks:
   - Streamline web productivity tasks by using Microsoft 365 Copilot Chat
   - Draft and refine documents by using Copilot in Microsoft Word
   - Draft presentations by using Copilot in Microsoft PowerPoint
   - Manage emails and responses by using Copilot in Microsoft Outlook
-  - Explore data by using Copilot in Microsoft Excel 
+  - Explore data by using Copilot in Microsoft Excel
 studyGuide:
   - uid: learn.wwl.generate-reports-with-ai-research-agents
 resources:
