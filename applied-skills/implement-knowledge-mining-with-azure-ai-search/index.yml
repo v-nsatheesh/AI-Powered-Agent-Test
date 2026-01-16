@@ -1,0 +1,43 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '84652'
+metadata:
+  title: 'Microsoft Applied Skills: Implement knowledge mining with Azure AI Search'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: false
+title: 'Microsoft Applied Skills: Implement knowledge mining with Azure AI Search'
+uid: applied-skill.implement-knowledge-mining-with-azure-ai-search
+levels:
+  - beginner
+roles:
+  - ai-edge-engineer
+products:
+  - azure-active-directory
+subjects:
+  - data-engineering
+locales:
+  - en
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate proficiency to create Azure AI Search solutions, implement custom skills, and add skill enrichment capabilities to an index to optimize search solutions.
+
+  Learners pursuing this credential are expected to have experience using the Azure portal and developing Azure Functions using C# or Python.
+tasks:
+  - Create classes, objects and types
+  - Work with properties
+  - Work with methods
+  - Call properties and methods
+studyGuide:
+  - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/2014-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
