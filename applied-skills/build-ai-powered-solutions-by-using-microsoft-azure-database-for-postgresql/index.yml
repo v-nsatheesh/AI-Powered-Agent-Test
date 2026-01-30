@@ -1,0 +1,52 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '172536'
+metadata:
+  title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+uid: applied-skill.build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql
+levels:  
+  - intermediate
+roles:
+  - developer
+products:
+  - azure-database-postgresql
+subjects:
+  - artificial-intelligence
+  - databases
+locales:
+  - en
+  - de
+  - es
+  - fr
+  - ja
+  - pt-br
+  - zh-cn
+summary: |-
+   To earn this Microsoft Applied Skills credential, demonstrate the ability to develop AI-powered solutions with Azure Database for PostgreSQL.
+   
+   As a candidate for this credential, you should have experience writing SQL queries and Python. You should also be familiar with general AI concepts and RAG frameworks. 
+tasks:
+  - Configure an Azure PostgreSQL environment
+  - Generate document embeddings
+  - Implement semantic search
+  - Apply Retrieval Augmented Generation (RAG)
+  - Transform and analyze natural language
+studyGuide:  
+  - uid: learn.wwl.build-ai-apps-azure-database-postgresql
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL3019-StudyGuide
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday-Friday.
+    href: https://learn.microsoft.com/credentials/support/help
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential 
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+
