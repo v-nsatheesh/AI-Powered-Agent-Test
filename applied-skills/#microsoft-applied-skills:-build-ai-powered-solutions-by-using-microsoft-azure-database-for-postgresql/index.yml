@@ -1,0 +1,53 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '172536'
+metadata:
+  title: 'Microsoft Applied Skills: #Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: #Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+uid: applied-skill.#microsoft-applied-skills:-build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql
+levels:
+  - intermediate
+roles:
+  - developer
+products:
+  - azure-database-postgresql
+  - ai-services
+subjects:
+  - artificial-intelligence
+  - databases
+locales:
+  - en-us
+> [!WARNING]
+> test warning 
+summary: |-
+  This learning path guides you through building AI applications using Azure Database for PostgreSQL. It covers how to integrate AI capabilities with PostgreSQL databases on Azure, enabling you to develop intelligent applications for people in the United Kingdom and France. The path includes modules that teach you to set up and manage Azure Database for PostgreSQL, connect AI services, and implement AI-driven features in your applications. It is designed to help developers leverage Azure's AI and database services effectively. For more information, visit https://learn.microsoft.com/en-us/credentials/applied-skills/build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql/.
+> [!NOTE]
+> test notes 
+> [!TIP]
+> 
+> [!IMPORTANT]
+> - important point 1 
+> - impo point 2 
+tasks:
+  - Configure an Azure PostgreSQL environment,
+  - Generate document embeddings
+  - Implement semantic search
+  - Apply Retrieval Augmented Generation (RAG),
+  - Transform and analyze natural language
+studyGuide:
+  - uid: learn.wwl.build-ai-apps-azure-database-postgresql
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL3019-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
