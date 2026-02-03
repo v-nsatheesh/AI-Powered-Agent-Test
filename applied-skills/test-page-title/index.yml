@@ -1,0 +1,38 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'Test Lab Profile ID'
+metadata:
+  title: 'Microsoft Applied Skills: test page title'
+  description: "Testing "
+  ms.author: 'Test MS Author'
+  adobe-target: true
+title: 'Microsoft Applied Skills: test page title'
+uid: applied-skill.test-page-title
+levels:
+  - beginner
+roles:
+  - administrator
+products:
+  - azure
+subjects:
+  - customer-relationship-management
+locales:
+  - ja
+summary: |-
+  Overview 
+tasks:
+  - Tasks
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/{Applied skills Id}-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
