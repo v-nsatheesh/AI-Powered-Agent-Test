@@ -1,0 +1,50 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '14578'
+metadata:
+  title: 'Microsoft Applied Skills: Secure AI Solutions in the Cloud'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Secure AI Solutions in the Cloud'
+uid: applied-skill.secure
+levels:
+  - intermediate
+roles:
+  - administrator
+  - ai-engineer
+products:
+  - ai-builder
+  - aspnet
+  - azure
+subjects:
+  - custom-app-development
+  - data-analytics
+  - data-engineering
+locales:
+  - de
+  - en
+  - es
+  - fr
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to secure AI solutions in the cloud.
+
+  Candidates for this credential should have a solid understanding of working with Microsoft Defender for Cloud and Azure AI Foundry.
+
+  They should also have experience with the Azure portal, and be familiar with security and AI concepts in Azure.
+tasks:
+  - Configure security for AI services in Microsoft Defender for Cloud
+  - Configure model guardrails and controls in Azure AI Foundry
+  - Configure security settings for an Azure AI Foundry environment
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL0200-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
