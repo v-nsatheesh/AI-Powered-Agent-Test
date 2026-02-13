@@ -1,0 +1,68 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '99365894'
+metadata:
+  title: 'Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions'
+uid: applied-skill.automate-azure-load-testing-by-using-github-actions
+levels:
+  - intermediate
+roles:
+  - data-scientist
+  - developer
+  - data-engineer
+products:
+  - azure-active-directory-domain
+  - azure-anomaly-detector
+  - azure-api-fhir
+  - azure-app-configuration
+subjects:
+  - data-analytics
+  - data-integration
+  - data-modeling
+locales:
+  - de
+  - es
+  - fr
+  - it
+> [!WARNING]
+> The page will retire in Feb 28.
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to automate Azure load testing by using GitHub Actions. 
+
+  The scenario in this experience represents practical challenges faced by developers and DevOps professionals. 
+
+  Candidates for this credential should be familiar with creating resources in Azure. They should also be skilled in configuring Azure App Service and Azure Load Testing, as well as authoring GitHub Actions workflows. 
+
+  Candidates should have experience with the Visual Studio Code editor.
+> [!NOTE]
+> The page will no longer available
+> [!TIP]
+> For more details
+> - study guide
+> - exam duration
+> [!IMPORTANT]
+> This applied skills will retire soon. Please check.
+tasks:
+  - Prepare the GitHub and Azure environments
+  - Configure GitHub Actions to deploy an app to Azure App Service
+  - Create and configure load tests
+  - Configure GitHub Actions to run load tests
+  - Manage deployment slots and pull requests by using GitHub Actions
+studyGuide:
+  - uid: learn.wwl.automate-azure-load-testing-github
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL7001-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
