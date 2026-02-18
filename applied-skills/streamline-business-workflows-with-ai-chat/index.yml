@@ -1,0 +1,42 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '126500'
+metadata:
+  title: 'Microsoft Applied Skills: Streamline business workflows with AI chat'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Streamline business workflows with AI chat'
+uid: applied-skill.streamline-business-workflows-with-ai-chat
+levels:
+  - beginner
+roles:
+  - business-user
+products:
+  - ai-builder
+subjects:
+  - custom-app-development
+locales:
+  - ar-sa
+summary: |-
+  This learning path guides you through optimizing business workflows using artificial intelligence (AI), a technology that enables machines to perform tasks that typically require human intelligence. It covers how to identify opportunities for AI integration, implement AI solutions to improve efficiency, and leverage AI-powered tools and platforms to enhance decision-making and automation in business workflows. The path includes modules on AI fundamentals, process analysis, and the practical application of AI technologies to transform business operations.
+> [!WARNING]
+  > Yes one warning box
+tasks:
+  - Streamline web productivity tasks by using Microsoft 365 Copilot Chat,
+  - Draft and refine documents by using Copilot in Microsoft Word,
+  - Draft presentations by using Copilot in Microsoft PowerPoint
+studyGuide:
+  - uid: learn.wwl.optimize-business-processes-ai
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL6500-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
