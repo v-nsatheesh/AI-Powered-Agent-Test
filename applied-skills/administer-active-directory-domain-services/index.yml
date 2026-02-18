@@ -1,0 +1,51 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '1231008'
+metadata:
+  title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
+uid: applied-skill.administer-active-directory-domain-services
+levels:
+  - intermediate
+roles:
+  - administrator
+products:
+  - ai-builder
+  - altspacevr
+subjects:
+  - device-management
+locales:
+  - ar-sa
+  - bg-bg
+summary: |-
+  This learning path provides guidance on administering Active Directory Domain Services (AD DS)®. It covers key tasks such as creating, modifying, and managing users and groups, configuring and managing Group Policy, and monitoring, troubleshooting, and maintaining AD DS infrastructure. The path is designed to help participants understand how to implement and manage AD DS in a Windows Server environment, ensuring secure and efficient directory services management.
+> [!IMPORTANT]
+  > New important, nothing else below
+> [!NOTE]
+  > New notes 
+> [!TIP]
+  > 
+> [!WARNING]
+  > 
+tasks:
+  - Deploy and manage AD DS domain controllers,
+  - Configure Active Directory topology,
+  - Create and manage AD DS objects
+studyGuide:
+  - uid: learn.wwl.administer-active-directory-domain-services
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL1008-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
