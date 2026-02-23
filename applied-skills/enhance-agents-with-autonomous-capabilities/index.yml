@@ -4,6 +4,7 @@ labProfileId: '32457789'
 metadata:
   title: 'Microsoft Applied Skills: Enhance agents with autonomous capabilities'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  ms.author: 'MS Author'
   adobe-target: true
 title: 'Microsoft Applied Skills: Enhance agents with autonomous capabilities'
 uid: applied-skill.enhance-agents-with-autonomous-capabilities
@@ -22,6 +23,18 @@ summary: |-
   You have applied knowledge of meeting business needs by specializing in one or more feature sets of Business Central. 
   As a candidate, you may configure role centers including adapting insights, cues, action tiles, reports, charts, and utilizing Copilots inside Business Central. You may also expand functionality by using extensions. 
   You understand how to connect and use technologies with Business Central, including: Microsoft 365, Microsoft Power Platform, Microsoft Dynamics 365 Sales, Microsoft Dynamics 365 Field Service. 
+> [!WARNING]
+> 
+> > 
+> [!NOTE]
+> 
+> > 
+> [!TIP]
+> 
+> > 
+> [!IMPORTANT]
+> 
+> > 
 tasks:
   - Configure an Azure PostgreSQL environment
   - Generate document embeddings
