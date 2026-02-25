@@ -27,14 +27,25 @@ locales:
   - ko
   - pt-br
 summary: |-
-  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to deploy cloud-native applications using Azure Container Apps.
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to deploy cloud-native applications using Azure Container Apps. 
 
   Learners are expected to have foundational knowledge of Azure cloud platform services, as well as container-related technologies. Learners pursuing this credential should have experience with the following:
   Continuous integration and continuous deployment (CI/CD)
   Azure DevOps
   Azure CLI
   PowerShell (cross-platform command-line shell)
-  Bash
+  Bash 
+
+  WARNING: retirement notice 
+
+  NOTE: Notes 
+
+  TIP: Tips
+  exam sandbox
+  video 
+
+  IMPORTANT: Important Box
+  Passing Score
 tasks:
   - Configure a secure connection between an Azure Container Registry and an ACA
   - Create and configure a container app in Azure - Container Apps
