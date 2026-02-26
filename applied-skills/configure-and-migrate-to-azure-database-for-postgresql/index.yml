@@ -1,0 +1,41 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '123123'
+metadata:
+  title: 'Microsoft Applied Skills: Configure and migrate to Azure Database for PostgreSQL'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Configure and migrate to Azure Database for PostgreSQL'
+uid: applied-skill.configure-and-migrate-to-azure-database-for-postgresql
+levels:
+  - intermediate
+roles:
+  - database-administrator
+products:
+  - azure
+subjects:
+  - databases
+locales:
+  - en-us
+summary: |-
+  This learning path introduces Microsoft Azure Database for PostgreSQL, a managed database service for app development and deployment. It covers core concepts, deployment options, and management of PostgreSQL databases on Azure. Learners will explore how to create and configure Azure Database for PostgreSQL instances, understand security and scalability features, and learn to monitor and optimize database performance. The path is designed to help users build foundational knowledge and practical skills for using Azure Database for PostgreSQL effectively.
+tasks:
+  - Migrate a database to Azure Database for PostgreSQL,
+  - Configure high availability, replication, and disaster recovery,
+  - Configure and optimize database performance,
+  - Configure identity and access
+studyGuide:
+  - uid: learn.wwl.microsoft-learn-azure-database-for-postgresql
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL3021-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
