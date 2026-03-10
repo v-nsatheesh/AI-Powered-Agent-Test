@@ -1,0 +1,42 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '23456'
+metadata:
+  title: 'Microsoft Applied Skills: Test - Page Title March 09'
+  description: "Description"
+  adobe-target: true
+title: 'Microsoft Applied Skills: Test - Page Title March 09'
+uid: applied-skill.test-page-title-march-09
+levels:
+  - intermediate
+roles:
+  - business-user
+  - developer
+products:
+  - azure-api-apps
+  - azure-api-fhir
+subjects:
+  - custom-app-development
+  - customer-relationship-management
+locales:
+  - en-us
+summary: |-
+  This learning path guides you through creating and managing canvas apps using Microsoft Power Apps. It covers the fundamentals of building canvas apps, including designing user interfaces, connecting to data sources, and implementing app logic. The path also includes managing app versions and sharing apps with colleagues and stakeholders. This path empowers you to develop skills to create custom business applications without extensive coding.
+tasks:
+  - Task 1
+  - Task 2
+studyGuide:
+  - uid: learn.wwl.create-manage-canvas-apps-power-apps
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL1616-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
