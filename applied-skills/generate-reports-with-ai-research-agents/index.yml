@@ -1,0 +1,53 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '6354712'
+metadata:
+  title: 'Microsoft Applied Skills: Generate reports with AI research agents'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Generate reports with AI research agents'
+uid: applied-skill.generate-reports-with-ai-research-agents
+levels:
+  - beginner
+roles:
+  - ai-edge-engineer
+  - business-user
+products:
+  - azure
+  - azure-advisor
+  - azure-app-service-static
+  - azure-app-service
+subjects:
+  - data-integration
+  - data-management
+  - data-engineering
+locales:
+  - en-us
+  - es
+  - fr
+  - de
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to generate business reports by using AI research agents.
+
+  Learners for this credential should be familiar with generative AI (a type of artificial intelligence that creates content).
+
+  Experience with using prompts in Microsoft Copilot is recommended.
+  > [!IMPORTANT]
+    > passing score
+tasks:
+  - Define scope, identify sources, and create an initial draft for a report by using the Researcher agent
+  - Refine a report by using Researcher
+  - Finalize a report by using Researcher
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL0100-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
