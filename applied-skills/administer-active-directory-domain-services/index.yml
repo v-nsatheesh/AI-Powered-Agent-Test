@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '584629'
+labProfileId: '974123'
 metadata:
   title: 'Microsoft Applied Skills: Administer Active Directory Domain Services'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
@@ -21,7 +21,9 @@ locales:
   - en
   - es
 summary: |-
-  This learning path provides guidance on managing Active Directory Domain Services (AD DS). It covers essential tasks such as managing users and groups, configuring and managing Group Policy, and maintaining AD DS infrastructure. This learning path helps learners develop skills to implement and manage AD DS in a Windows Server environment, to ensure secure and efficient management of directory services.
+  To earn this Microsoft Applied Skills credential, learners apply Azure virtual networking solutions to secure resources.
+
+  Learners for this credential should be familiar with Azure services, the Azure portal, and fundamental networking concepts, Domain Name System (DNS), and Azure Firewall.
 tasks:
   - Deploy and manage AD DS domain controllers,
   - Configure Active Directory topology,
