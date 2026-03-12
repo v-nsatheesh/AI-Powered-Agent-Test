@@ -1,0 +1,51 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '652487'
+metadata:
+  title: 'Microsoft Applied Skills: Build a generative AI chat app'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Build a generative AI chat app'
+uid: applied-skill.build-a-generative-ai-chat-app
+levels:
+  - intermediate
+roles:
+  - administrator
+  - ai-edge-engineer
+products:
+  - ai-builder
+  - azure
+  - azure-active-directory-domain
+subjects:
+  - custom-app-development
+  - data-engineering
+locales:
+  - de
+  - en
+  - es
+  - fr
+  - it
+  - ja
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to build a generative AI chat application. 
+
+  Candidates for this credential should have a solid understanding of working with Microsoft's Foundry and language models. They must also have experience programming in Python or C#. This assessment lab requires experience in software development or programming. If you don’t have coding experience, consider exploring Microsoft Applied Skills: Create an AI Agent as an alternative.
+tasks:
+  - Prepare and deploy a model in Microsoft Foundry
+  - Create a chat app by using the Microsoft Foundry SDK
+  - Implement chat history
+studyGuide:
+  - uid: learn.wwl.apl-3030-build-ai-app-foundry
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL7004-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
