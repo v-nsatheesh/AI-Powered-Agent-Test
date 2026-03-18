@@ -1,0 +1,58 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '56234'
+metadata:
+  title: 'Microsoft Applied Skills: Get started with cloud security and monitoring tasks'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Get started with cloud security and monitoring tasks'
+uid: applied-skill.get-started-with-cloud-security-and-monitoring-tasks
+levels:
+  - intermediate
+roles:
+  - security-engineer
+products:
+  - azure
+subjects:
+  - data-engineering
+  - data-management
+locales:
+  - en-us
+  - es
+  - fr
+  - it
+  - ja
+  - pt-br
+  - de
+summary: |-
+  > [!WARNING]
+    > This applied skills will get live on March 20.
+
+  To achieve this Microsoft Applied Skills credential, learners demonstrate the ability to configure security, governance, and monitoring features within Azure services.
+
+  As a candidate for this credential, candidates are expected to have familiarity with Azure services.
+
+  > [!IMPORTANT]
+    > Sandbox
+    > Prep Video
+
+tasks:
+  - Perform basic cloud workload protection platform (CWPP) tasks  
+  - Perform basic key management tasks  
+  - Perform basic firewall configuration tasks  
+  - Perform basic monitoring tasks
+studyGuide:
+  - uid: learn.wwl.perform-basic-azure-management-tasks
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL1001-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
