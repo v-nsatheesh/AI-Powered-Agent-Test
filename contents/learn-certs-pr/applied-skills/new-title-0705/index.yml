@@ -1,0 +1,80 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '93854'
+metadata:
+  title: 'Microsoft Applied Skills: new title 0705'
+  description: "This is a page description test"
+  adobe-target: true
+title: 'Microsoft Applied Skills: new title 0705'
+uid: applied-skill.new-title-0705
+levels:
+  - intermediate
+roles:
+  - security-engineer
+products:
+  - azure
+  - azure-firewall
+  - azure-key-vault
+  - azure-kubernetes-service
+  - azure-log-analytics
+  - azure-virtual-machines
+  - azure-virtual-network
+  - defender-for-cloud
+subjects:
+  - cloud-security
+locales:
+  - en
+summary: |-
+> [!WARNING]
+> Test Warning
+
+This learning path titled "Manage Azure resources: Fundamentals" on Microsoft Learn provides an introduction to managing Azure resources. It covers creating and configuring Azure resources, managing resource groups, and monitoring their performance. The path is designed to help learners gain practical skills using both the Azure portal and Azure CLI to perform essential management tasks. This learning path is ideal for individuals new to Azure who want to develop skills to navigate and manage Azure environments effectively.
+
+> [!NOTE]
+> Test Note
+
+> [!IMPORTANT]
+> Test Important
+
+tasks:
+  - Azure Resource Management Tasks 
+  - Create a free account on Microsoft Azure and explore the dashboard
+  - Set up a new Resource Group for organizing resources
+  - Deploy a Virtual Machine (VM) using the Azure Portal
+  - Configure VM size, region, and basic networking settings
+  - Connect to the VM using RDP/SSH
+  - Configuration & Organization 
+  - Tag resources for better categorization and cost tracking
+  - Move resources between different resource groups
+  - Apply basic role-based access control (RBAC) to a resource group
+  - Set up a storage account and configure access tiers
+  - Azure CLI Practice 
+  - Install and configure the Azure CLI locally
+  - Create a resource group using CLI commands
+  - Deploy a VM using CLI instead of the portal
+  - List and filter resources using CLI queries
+  - Monitoring & Optimization 
+  - Enable monitoring for a VM using Azure Monitor
+  - View metrics like CPU usage and network activity
+  - Set up alerts for high resource usage
+  - Check activity logs for resource changes
+  - Basic Governance & Cleanup 
+  - Apply a simple Azure Policy to restrict resource locations
+  - Review cost analysis for created resources
+  - Delete unused resources to avoid charges
+  - Clean up the resource group after completing exercises
+studyGuide:
+  - uid: learn.wwl.perform-basic-azure-management-tasks
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL2904-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
