@@ -1,0 +1,49 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '83746'
+metadata:
+  title: 'Microsoft Applied Skills: Test the new flow'
+  description: "This learning path guides you through performing basic Azure management tasks. It covers essential skills such as creating and managing Azure resources, configuring and managing virtual networks, and monitoring resources using Azure tools. The path is designed to help you gain foundational knowledge to effectively manage Azure environments."
+  adobe-target: true
+title: 'Microsoft Applied Skills: Test the new flow'
+uid: applied-skill.test-the-new-flow
+levels:
+  - intermediate
+roles:
+  - security-engineer
+products:
+  - azure
+  - azure-firewall
+  - azure-key-vault
+  - azure-kubernetes-service
+  - azure-log-analytics
+  - azure-virtual-machines
+  - azure-virtual-network
+  - defender-for-cloud
+subjects:
+  - cloud-security
+locales:
+  - en
+summary: |-
+> [!WARNING]
+> Publish it on 5th July
+
+This learning path guides you through performing basic Azure management tasks. It covers essential skills such as creating and managing Azure resources, configuring and managing virtual networks, and monitoring resources using Azure tools. The path is designed to help you gain foundational knowledge to effectively manage Azure environments.
+
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL0705-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
+tasks:
+  - This learning path guides you through performing basic Azure management tasks. It covers essential skills such as creating and managing Azure resources
+studyGuide:
+  - uid: learn.wwl.perform-basic-azure-management-tasks
