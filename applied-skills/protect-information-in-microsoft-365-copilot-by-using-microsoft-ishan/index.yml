@@ -1,0 +1,43 @@
+### YamlMime: AppliedSkills
+hidden: False
+labProfileId: '215611'
+metadata:
+  title: 'Microsoft Applied Skills: Protect information in Microsoft 365 Copilot by using Microsoft ishan'
+  description: "des"
+  adobe-target: true
+title: 'Microsoft Applied Skills: Protect information in Microsoft 365 Copilot by using Microsoft ishan'
+uid: applied-skill.protect-information-in-microsoft-365-copilot-by-using-microsoft-ishan
+levels:
+  - beginner
+roles:
+  - administrator
+products:
+  - azure
+subjects:
+  - app-development
+locales:
+  - en
+summary: |-
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to protect information in Microsoft 365 Copilot by using Microsoft Purview.
+
+  Candidates for this credential should have a strong understanding of using Microsoft Purview Information Protection, Microsoft Purview Data Loss Prevention, Microsoft Purview Audit, and Microsoft Purview Data Security Posture Management (DSPM). They should also have familiarity with the Microsoft Purview portal and with data loss prevention (DLP) policies in Microsoft 365. Candidates should understand data classification concepts, including sensitive information types and sensitivity labels.
+
+tasks:
+  - Manage and review Microsoft 365 Copilot audit logs
+  - Restrict Copilot access to information by using sensitivity labels and sensitive info types
+  - Create and configure a DLP policy to restrict Copilot usage
+studyGuide:
+  - uid: learn.wwl.purview-protect-microsoft-365-copilot-environment
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL50101-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
